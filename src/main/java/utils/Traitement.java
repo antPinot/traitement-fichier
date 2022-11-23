@@ -1,9 +1,7 @@
 /**
  * 
  */
-package service;
-
-import entites.OpenFoodFacts;
+package utils;
 
 /**
  * @author antPinot

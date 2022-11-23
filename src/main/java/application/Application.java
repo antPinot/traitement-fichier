@@ -19,8 +19,8 @@ import entites.Allergene;
 import entites.Categorie;
 import entites.Ingredient;
 import entites.Marque;
-import entites.OpenFoodFacts;
 import entites.Produit;
+import utils.OpenFoodFacts;
 
 /**
  * @author antPinot
